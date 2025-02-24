@@ -1,0 +1,2 @@
+# DenemePy
+Python Başlangic
